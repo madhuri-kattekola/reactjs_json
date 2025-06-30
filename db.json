@@ -1,0 +1,61 @@
+{
+    "samplejson": [
+        {
+            "id": 1,
+            "name": "Madhuri",
+            "department": "VBCS",
+            "Salary": "10000",
+            "PhoneNo": "9199999990"
+        },
+        {
+            "id": 2,
+            "name": "Mounika",
+            "department": "VBCS",
+            "Salary": "10101",
+            "PhoneNo": "9112345689"
+        },
+        {
+            "id": 3,
+            "name": "Deepika",
+            "department": "OCC",
+            "Salary": "12986",
+            "PhoneNo": "9087653467"
+        },
+        {
+            "id": 4,
+            "name": "Chary",
+            "department": "OCC",
+            "Salary": "78862",
+            "PhoneNo": "9087864532"
+        },
+        {
+            "id": 5,
+            "name": "Kavya",
+            "department": "OCC",
+            "Salary": "12093",
+            "PhoneNo": "9199993302"
+        },
+        {
+            "id": 6,
+            "name": "Apoorva",
+            "department": "VBCS",
+            "Salary": "10005",
+            "PhoneNo": "9199999345"
+        },
+        {
+            "id": 7,
+            "name": "Dhanush",
+            "department": "OCC",
+            "Salary": "100234",
+            "PhoneNo": "9987687540"
+        },
+        {
+            "id": 8,
+            "name": "Sagar",
+            "department": "VBCS",
+            "Salary": "9000",
+            "PhoneNo": "8976886372"
+        }
+
+    ]
+}
